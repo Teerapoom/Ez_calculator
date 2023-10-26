@@ -3,7 +3,7 @@
 
 Mini App 03 
 
-<img src="https://github.com/Teerapoom/Data_Recording_App/blob/main/IMG_git/list.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Data_Recording_App/blob/main/IMG_git/from.jpg" width="150" style="margin-right: 20px;"/>
+<img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/input.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/Error.jpg" width="150" style="margin-right: 20px;"/><img src="https://github.com/Teerapoom/Ez_calculator/blob/main/lib/IMG_git/output.jpg" width="150" style="margin-right: 20px;"/>
 
 
 ## 🛠 Skills
