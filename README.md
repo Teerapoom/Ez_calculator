@@ -1,16 +1,20 @@
-# flutter_ez_calculator
 
-A new Flutter project.
+# Ez Calculator
 
-## Getting Started
+Mini App 03 
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/Teerapoom/Data_Recording_App/blob/main/IMG_git/list.jpg" width="150" style="margin-right: 20px;"/> <img src="https://github.com/Teerapoom/Data_Recording_App/blob/main/IMG_git/from.jpg" width="150" style="margin-right: 20px;"/>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=flutter&perline=3)](https://skillicons.dev)
+- Flutter
+- Dart
+- GetX
+## library
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run this command:
+
+```bash
+  flutter pub add get
+```
